@@ -1,2 +1,2 @@
 # DirUtils
- Biblioteca de manipulção de diretórios para meus projetos de aprendizado em C
+ Biblioteca de manipulação de diretórios para meus projetos de aprendizado em C
