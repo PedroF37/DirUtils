@@ -1,5 +1,5 @@
-#ifndef _DIRUTILS_
-#define _DIRUTILS_
+#ifndef _DIRUTILS_H
+#define _DIRUTILS_H
 
 
 #include <string.h>
